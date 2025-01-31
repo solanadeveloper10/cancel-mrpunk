@@ -7,19 +7,19 @@ function App() {
     <div className='color-bg' />
     <div className='wrapper'>
       <header className='header'>
-        <a href="#" target='_blank' className='https://x.com/CancelMrPunk'>
+        <a href="https://x.com/CancelMrPunk" target='_blank' className='social-link'>
           X
         </a>
-        <a href="#" target='_blank' className='https://t.me/CancelMrPunk'>
+        <a href="https://t.me/CancelMrPunk" target='_blank' className='social-link'>
           Telegram
         </a>
-        <a href="#" target='_blank' className='https://www.dextools.io/app/en/solana/pair-explorer/5STy8JRiTeSvdSNjjqQBCUmDNsL8Y5ZZ4XxcyP1ppgjY?t=1738339718383'>
+        <a href="https://www.dextools.io/app/en/solana/pair-explorer/5STy8JRiTeSvdSNjjqQBCUmDNsL8Y5ZZ4XxcyP1ppgjY?t=1738339718383" target='_blank' className='social-link'>
           Dextools
         </a>
-        <a href="#" target='_blank' className='https://dexscreener.com/solana/igRHkYv54WYHgN4Y3HxJrWrJwV9BTbwntFwwStMq6od'>
+        <a href="https://dexscreener.com/solana/igRHkYv54WYHgN4Y3HxJrWrJwV9BTbwntFwwStMq6od" target='_blank' className='social-link'>
           Dexscreener
         </a>
-        <a href="#" target='_blank' className='http://raydium.io/swap/?inputMint=sol&outputMint=igRHkYv54WYHgN4Y3HxJrWrJwV9BTbwntFwwStMq6od'>
+        <a href="http://raydium.io/swap/?inputMint=sol&outputMint=igRHkYv54WYHgN4Y3HxJrWrJwV9BTbwntFwwStMq6od" target='_blank' className='social-link'>
           Raydium
         </a>
       </header>
