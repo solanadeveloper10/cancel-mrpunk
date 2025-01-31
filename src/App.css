@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
 
-  background-color: #000000;
+  background-color: #050505;
 
   position: fixed;
   top: 0;
@@ -120,7 +120,8 @@
   outline: none;
 
   background-color: #ffffff;
-  color: #000000;;
+  color: #000000;
+  ;
 
   /* font-family: 'Departure Mono', sans-serif; */
 
